@@ -1,3 +1,5 @@
+name: Deploy AWS CDK through aws_cdk
+
 on: [workflow_dispatch]
 jobs:
   aws_cdk:
